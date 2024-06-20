@@ -1,0 +1,4 @@
+<!--index.wxml-->
+<scroll-view class="scrollarea" scroll-y type="list">
+  <web-view src="http://192.168.0.101:5173/" />
+</scroll-view>
